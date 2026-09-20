@@ -1,0 +1,4 @@
+NAME = Queen_Ashley
+LEVEL = 19
+GOLD = 102
+LOCATION = MEADOW

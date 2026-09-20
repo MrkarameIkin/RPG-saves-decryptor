@@ -1,0 +1,4 @@
+NAME = Andrew
+LEVEL = 5
+GOLD = 17
+LOCATION = MEADOW
